@@ -1,0 +1,6 @@
+@Salud360_HostAddress = http://localhost:5009
+
+GET {{Salud360_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
